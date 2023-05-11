@@ -28,3 +28,6 @@ print(hero)  # выводит 'Superman has super strength and 200 health points
 print(len(hero))  # выводит длину коронной фразы героя
 
 
+
+
+
